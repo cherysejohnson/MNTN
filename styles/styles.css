@@ -539,7 +539,7 @@ img {
     }
 
     .hero-data {
-        top: 45%;
+        top: 15%;
         max-width: 79rem;
         justify-self: center;
     }
@@ -586,9 +586,7 @@ img {
 }
 
 @media screen and (min-width: 1068px) {
-    .hero-data {
-        top: 25%;
-    }
+    
 
     .count {
         left: -10rem;
